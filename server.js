@@ -1,5 +1,5 @@
 // Listen on a specific host via the HOST environment variable
-var host = process.env.HOST || '0.0.0.0';
+var host = process.env.HOST || 'cors-nodejs-cors.1d35.starter-us-east-1.openshiftapps.com';
 // Listen on a specific port via the PORT environment variable
 var port = process.env.PORT || 8080;
 
